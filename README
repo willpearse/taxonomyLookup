@@ -1,0 +1,12 @@
+A very simple NCBI taxonomy lookup program.
+Use as you wish, but please acknowledge that I (Will Pearse) wrote the script in whatever you're doing.
+
+To use, simply make sure you have Python and Biopython installed, then type:
+
+./taxonomyLookup.py --help
+
+to see the options. Make sure you specify a taxonomy file (one taxon per line, please!), an email address, and an output file (that shouldn't exist yet!!!) and you're away!
+
+There's a bundled Mac version up online for you to use as well. Have fun!
+
+Will (will.pearse@gmail.com)
