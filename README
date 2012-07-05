@@ -9,7 +9,7 @@ to see the options. Make sure you specify a taxonomy file (one taxon per line, p
 
 There's a bundled Mac version up online for you to use as well. To use this, unzip 'taxonomyLookupApplication.zip', make sure you're in Terminal, and in the folder that contains the application you've just unzipped, then run:
 
-./dist/taxonomyLookup.app/Contents/MacOS/taxonomyLookup
+./taxonomyLookup.app/Contents/MacOS/taxonomyLookup
 
 ...note that double-clicking on the application will cause an error! Have fun!
 
